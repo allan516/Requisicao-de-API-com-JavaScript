@@ -12,4 +12,6 @@ O exercício consiste em criar uma página da web que permita aos usuários faze
 * CSS
 * JavaScript
 
+  Você pode testar o exercício diretamente acessando [este link](https://allan516.github.io/Requisicao-de-API-com-JavaScript/).
+
  
