@@ -24,6 +24,8 @@ submit.addEventListener('click', (e) => {
             return;
         }).catch(erro => {
             result.innerHTML = `<p>Digite um ID entre 1 e 10</p>`;
+            document.querySelector('#verificaId').value = '';
+            document.querySelector('#verificaId').focus(); 
             console.warn(erro);
             });         
 });
